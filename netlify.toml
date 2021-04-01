@@ -2,3 +2,11 @@
   from = "/benchmarks"
   to = "https://github.com/pnpm/benchmarks-of-javascript-package-managers"
   status = 301
+[[redirects]]
+  from = "/chat"
+  to = "https://discord.gg/CeZ7xK2bvJ"
+  status = 301
+[[redirects]]
+  from = "/comp"
+  to = "https://pnpm.js.org/installation#compatibility"
+  status = 301
