@@ -1,0 +1,4 @@
+[[redirects]]
+  from = "/benchmarks"
+  to = "https://github.com/pnpm/benchmarks-of-javascript-package-managers"
+  status = 301
