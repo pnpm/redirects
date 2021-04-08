@@ -1,6 +1,6 @@
 [[redirects]]
   from = "/benchmarks"
-  to = "https://github.com/pnpm/benchmarks-of-javascript-package-managers"
+  to = "https://pnpm.io/benchmarks"
   status = 301
 [[redirects]]
   from = "/chat"
@@ -8,5 +8,5 @@
   status = 301
 [[redirects]]
   from = "/comp"
-  to = "https://pnpm.js.org/installation#compatibility"
+  to = "https://pnpm.io/installation#compatibility"
   status = 301
