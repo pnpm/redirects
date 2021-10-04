@@ -10,3 +10,7 @@
   from = "/comp"
   to = "https://pnpm.io/installation#compatibility"
   status = 301
+[[redirects]]
+  from = "/tweet"
+  to = "https://twitter.com/intent/tweet?hashtags=JavaScript&original_referer=http://127.0.0.1:91/&text=Check out pnpm! A fast, disk space efficient package manager!&tw_p=tweetbutton&url=https://pnpm.js.org&via=pnpmjs"
+  status = 301
