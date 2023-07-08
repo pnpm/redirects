@@ -1,0 +1,25 @@
+{
+  "redirects": [
+    {
+      "source": "/benchmarks",
+      "destination": "https://pnpm.io/benchmarks",
+      "permanent": true
+    },
+    {
+      "source": "/chat",
+      "destination": "https://discord.gg/CeZ7xK2bvJ",
+      "permanent": true
+    },
+    {
+      "source": "/comp",
+      "destination": "https://pnpm.io/installation#compatibility",
+      "permanent": true
+    },
+    {
+      "source": "/tweet",
+      "destination": "https://twitter.com/intent/tweet?hashtags=JavaScript&original_referer=http://127.0.0.1:91/&text=Check%20out%20pnpm!%20A%20fast,%20disk%20space%20efficient%20package%20manager!&tw_p=tweetbutton&url=https://pnpm.io&via=pnpmjs",
+      "permanent": true
+    }
+  ]
+}
+
